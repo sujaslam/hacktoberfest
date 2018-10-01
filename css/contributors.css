@@ -15,3 +15,10 @@ body {
   color:purple;
   font-size: 18px;
 }
+
+#footer{
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin-bottom: 10px;
+}
