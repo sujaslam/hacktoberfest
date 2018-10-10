@@ -56,9 +56,11 @@
 .jumbotron {
   padding-top: var(--jumbotron-padding-y);
   padding-bottom: var(--jumbotron-padding-y);
+  margin-top: 10px;
   margin-bottom: 0;
   background-color: #fff;
   border: 10px double #21ffff;
+  width: 100%
 }
 
 .cheesetron-1 {
